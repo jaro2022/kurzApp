@@ -6,3 +6,4 @@ printf(a);
 wait(1000);
 }
 
+# funguje to !
